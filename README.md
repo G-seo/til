@@ -1,9 +1,9 @@
 # til
 Today I Learned
 
-##Categories
+## Categories
 * [Python ](#python)
 
 
 
-## Python
+## Python 
