@@ -2,8 +2,8 @@
 Today I Learned
 
 ## Categories
-* [Python ](#python)
+* [Python](#python)
 
 
 
-##Python 
+## Python 
